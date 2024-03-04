@@ -1,1 +1,1 @@
-sudo xbps-install base-devel libX11-devel libXft-devel libXinerama-devel freetype-devel fontconfig-devel xorg xinit pkg-config
+sudo pacman -Syyu dnsmasq docker docker-compose dunst firefox firejail gnome-keyring htop keepassxc lf linux-lts neovim man-db lxappearance lsd numlockx nsxiv p7zip pavucontrol pcmanfm qbittorrent torbrowser-launcher ttf-fira-code yt-dlp vlc unzip ufw ueberzug 
