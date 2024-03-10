@@ -1,1 +1,1 @@
-sudo pacman -Syyu bat xorg-xinit apparmor ttf-jetbrains-mono-nerd dnsmasq docker docker-compose dunst firefox  gnome-keyring htop keepassxc lf linux-lts neovim man-db lxappearance lsd numlockx nsxiv p7zip pavucontrol pcmanfm qbittorrent torbrowser-launcher ttf-fira-code yt-dlp vlc unzip ufw ueberzug 
+sudo xbps-install base-devel libX11-devel libXft-devel libXinerama-devel freetype-devel fontconfig-devel
